@@ -1,6 +1,5 @@
 # CPO
 
-This directory is the self-contained release of our CPO preference-optimization implementation. It keeps the trainer and the small amount of data/model plumbing needed to run it, without experiment logs, checkpoints, or machine-specific paths.
 
 ## Install
 
